@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">S K I L L S</h3>
+<h3 align="center">S K I L L S</h3>
 
 ###
 ## B A C K - E N D
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="57" alt="git logo" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="57" alt="typescript logo" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="57" alt="javascript logo"  />
@@ -18,21 +18,21 @@
 <br clear="both">
 
 ## F R O N T - E N D
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="57" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="57" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="57" alt="react logo"  />
 </div>
 
 ## D A T A  B A S E
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="57" alt="mysql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="57" alt="postgres logo"/>       
   <img  />  
 </div>
 
 ## C L O U D
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="57" alt="amazonwebservices logo"  />
 </div>
 
